@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zyanuro
-- 👀 I’m interested in Android/Kotlin
+- 👀 I’m interested in Android/Kotlin, web/php/mySQL
 - 🌱 I’m currently learning Android/Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me acuestac@gmail.com
